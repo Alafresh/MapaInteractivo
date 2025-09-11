@@ -14247,7 +14247,7 @@ TrailRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 10
-  m_Time: 1
+  m_Time: 2
   m_PreviewTimeScale: 1
   m_Parameters:
     serializedVersion: 3
@@ -16534,7 +16534,7 @@ TrailRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 10
-  m_Time: 1
+  m_Time: 2
   m_PreviewTimeScale: 1
   m_Parameters:
     serializedVersion: 3
@@ -25198,7 +25198,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1395048359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32298,15 +32298,15 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1786070036}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0.11764961, w: 0.99305516}
-  m_LocalPosition: {x: -4.53, y: -2.4, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0.70090926, w: 0.71325046}
+  m_LocalPosition: {x: 6.58, y: -3.05, z: 0}
   m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 736296114}
   - {fileID: 862809015}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -13.513}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 89}
 --- !u!1 &1788659598
 GameObject:
   m_ObjectHideFlags: 8
